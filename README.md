@@ -15,3 +15,8 @@ open .
 
 double click theme file
 ![install theme solarized](https://github.com/fluke34261/brew_install/blob/main/Screen%20Shot%202564-07-10%20at%2015.05.29.png)
+
+
+change color up on you
+![change color theme](https://github.com/fluke34261/brew_install/blob/main/Screen%20Shot%202564-07-10%20at%2015.08.33.png)
+![change color theme](https://github.com/fluke34261/brew_install/blob/main/Screen%20Shot%202564-07-10%20at%2015.08.38.png)

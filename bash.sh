@@ -7,6 +7,8 @@ brew install cask visual-studio-code
 brew install cask tg-pro
 brew install cask tableplus
 brew install cask iterm2
+brew install cask microsoft-edge
+brew install cask brave-browser
 
 # setup oh my zsh
 brew install zsh

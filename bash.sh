@@ -13,6 +13,8 @@ brew install cask iterm2
 brew install cask microsoft-edge
 brew install cask brave-browser
 brew install cask insomnia
+brew install cask balenaetcher
+
 
 # setup oh my zsh
 brew install zsh

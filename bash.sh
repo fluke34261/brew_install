@@ -1,9 +1,9 @@
 #!/bin/sh
 
 brew install python@3.9
-brew install node@14
-echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
-brew postinstall node@14
+#brew install node@14
+#echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+#brew postinstall node@14
 #npm install --global yarn
 
 brew install cask visual-studio-code

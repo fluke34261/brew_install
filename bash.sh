@@ -1,20 +1,21 @@
 #!/bin/sh
 
-brew install python@3.9
-#brew install node@14
-#echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
-#brew postinstall node@14
-#npm install --global yarn
-
 brew install cask visual-studio-code
 brew install cask tg-pro
-brew install cask tableplus
+# brew install cask tableplus
 brew install cask iterm2
 brew install cask microsoft-edge
-brew install cask brave-browser
+# brew install cask brave-browser
 brew install cask insomnia
 brew install cask balenaetcher
 
+brew install python@3.9
+# brew install node@14
+# echo 'export PATH="/usr/local/opt/node@14/bin:$PATH"' >> ~/.zshrc
+# brew postinstall node@14
+# npm install --global yarn
+brew install openjdk
+brew install --cask intellij-idea-ce
 
 # setup oh my zsh
 brew install zsh

@@ -1,5 +1,7 @@
 #!/bin/sh
 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 brew install cask visual-studio-code
 brew install cask tg-pro
 # brew install cask tableplus

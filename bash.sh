@@ -1,13 +1,11 @@
 #!/bin/sh
 
-# /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install --cask visual-studio-code
 brew install --cask tg-pro
-# brew install cask tableplus
 brew install --cask iterm2
 brew install --cask microsoft-edge
-# brew install cask brave-browser
 brew install --cask insomnia
 brew install --cask balenaetcher
 

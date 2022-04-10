@@ -8,6 +8,8 @@ brew install --cask iterm2
 brew install --cask microsoft-edge
 brew install --cask insomnia
 brew install --cask balenaetcher
+brew install --cask virtualbox
+brew install --cask vagrant
 
 brew install python@3.9
 # brew install node@14

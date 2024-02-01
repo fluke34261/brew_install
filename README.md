@@ -17,7 +17,7 @@ install solarized
 cd to solarized when you git clone 
 
 ```sh
-git clone git://github.com/altercation/solarized.git
+git clone https://github.com/altercation/solarized.git
 
 cd solarized/iterm2-colors-solarized
 open .

@@ -33,6 +33,8 @@ then setup theme name in `~/zshrc`
 
 ```sh
 ZSH_THEME=”XXXX” #agnoster
+
+export PATH=/opt/homebrew/bin:$PATH
 ```
 
 then restart terminal 

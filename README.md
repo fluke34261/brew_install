@@ -23,6 +23,21 @@ cd solarized/iterm2-colors-solarized
 open .
 ```
 
+install oh my zsh
+```sh
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+chsh -s `which zsh
+```
+
+then setup theme name in `~/zshrc`
+
+```sh
+ZSH_THEME=”XXXX” #agnoster
+```
+
+then restart terminal 
+
+
 double click theme file
 ![install theme solarized](https://github.com/fluke34261/brew_install/blob/main/Screen%20Shot%202564-07-10%20at%2015.05.29.png)
 

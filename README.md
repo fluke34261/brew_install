@@ -8,7 +8,9 @@ brew bundle
 `
 
 ## ZSH
-install power font
+install powerline font follow this link
+https://fmacedoo.medium.com/oh-my-zsh-with-powerline-fonts-pretty-simple-as-you-deserve-fbe7f6d23723
+
 ![install font](https://github.com/fluke34261/brew_install/blob/main/Screen%20Shot%202564-07-10%20at%2014.52.17.png)
 
 install solarized

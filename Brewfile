@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+tap "mac-cleanup/mac-cleanup-py"
 tap "sass/sass"
 brew "gnutls"
 brew "cask"

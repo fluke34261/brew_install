@@ -26,7 +26,6 @@ open .
 install oh my zsh
 ```sh
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
-chsh -s `which zsh
 ```
 
 then setup theme name in `~/zshrc`
@@ -36,6 +35,8 @@ ZSH_THEME=”XXXX” #agnoster
 
 export PATH=/opt/homebrew/bin:$PATH
 ```
+
+select font
 
 then restart terminal 
 

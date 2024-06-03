@@ -1,8 +1,10 @@
 # brew_install
 
 ## Brew
-- install brew 
+- install brew
+- rename .txt from file name
 - Download Brew file to ~/home directory and run
+- if got error `zsh: command not found: brew` [click](https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew)
 `
 brew bundle
 `

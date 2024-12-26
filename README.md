@@ -28,7 +28,7 @@ install oh my zsh
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
 ```
 
-then setup theme name in `~/zshrc`
+then setup theme name in `~/.zshrc`
 
 ```sh
 ZSH_THEME=”XXXX” #agnoster
